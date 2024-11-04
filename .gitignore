@@ -1,0 +1,38 @@
+.venv
+venv
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+__pycache__/test_module.cpython-312-pytest-8.2.0.pyc
+backend/__pycache__/server.cpython-312.pyc
+__pycache__/test_module.cpython-311-pytest-7.4.0.pyc
+backend/__pycache__/server.cpython-311.pyc
+interface/file.rttm
+interface/subprocess_log.txt
+
+# pycで終わるファイル
+*.pyc
+new_venv/
